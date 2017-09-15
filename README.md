@@ -10,7 +10,7 @@ Programmed using Python 2.7.3 32-bit and the corresponding version of Pygame.
 
 Graphics files are to be placed in the same directory as the source code.
 
-Xpadder was used for controller support with an Xbox 360 controller but neither are necessary.
+There is no controller support but a program like JoyToKey or AniMicro can be used to map buttons to keyboard keys.
 
 Keyboard controls are displayed on the title screen.
 
