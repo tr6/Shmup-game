@@ -8,8 +8,6 @@ This is a simple shooter game that I actually made for my AI class but it uses g
 Requires Python and Pygame to run.
 Programmed using Python 2.7.3 32-bit and the corresponding version of Pygame.
 
-Graphics files are to be placed in the same directory as the source code.
-
 There is no controller support but a program like JoyToKey or AniMicro can be used to map buttons to keyboard keys.
 
 Keyboard controls are displayed on the title screen.
