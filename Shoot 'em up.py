@@ -169,6 +169,7 @@ drawText('Controls', font, windowSurface, (WINDOWWIDTH / 3), (WINDOWHEIGHT / 3 +
 drawText('W A S D - Move', font, windowSurface, (WINDOWWIDTH / 3), (WINDOWHEIGHT / 3 + 120))
 drawText('Spacebar - Shoot', font, windowSurface, (WINDOWWIDTH / 3), (WINDOWHEIGHT / 3 + 170))
 drawText('Press a key to start.', font, windowSurface, (WINDOWWIDTH / 3) - 30, (WINDOWHEIGHT / 3) + 250)
+drawText('Press ESC to quit.', font, windowSurface, (WINDOWWIDTH / 3) - 30, (WINDOWHEIGHT / 3) + 300)
 pygame.display.update()
 waitForPlayerToPressKey()
 
