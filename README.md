@@ -15,3 +15,8 @@ Keyboard controls are displayed on the title screen.
 Tested on:
 -Windows Vista Service Pack 2 w/ AMD Phenom Processor Quad Core 2.4 Ghz and graphics card
 -Windows XP Service Pack 2 w/ Intel Celeron M at ~1 Ghz and integreted graphics
+
+
+Screenshots
+![alt text](https://raw.githubusercontent.com/tr6/Shmup-game/master/screenshots/title%20screen.png)
+![alt text](https://raw.githubusercontent.com/tr6/Shmup-game/master/screenshots/gameplay.png)
