@@ -2,7 +2,7 @@
 
 This is a simple shooter game that I made in Python using the Pygame Library.
 
-Enemy ships can dodge your shots, have a limited aiming ability, and when low on health they attempt to ram into your ship.
+Enemy ships can dodge your shots, have a limited aiming ability, and when low on health they attempt to ram into your ship. Enemy ships can also crash into each other.
 While the game remains open, it keeps track of your top score per session of play. The player has 5 lives per session.
 
 Requires Python and Pygame to run.
